@@ -40,8 +40,7 @@ My scholarly interests include **authorial revision and genetic processes**, **i
 Responsible for the operational and strategic coordination of **85 service units**, overseeing  
 - governance of regional healthcare ICT systems;  
 - service delivery and quality assurance frameworks;  
-- optimization of service processes and regional integration;  
-- leadership in complex, multi-client environments.  
+- leadership in complex environments.  
 
 ## 🎓 Academic Background
 
