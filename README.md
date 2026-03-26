@@ -1,11 +1,21 @@
 # 👋 Welcome, I am **Luciano Longo, PhD**
 ### Digital Humanities • Textual Scholarship • Scholarly Digital Editing • ICT Service & Project Management
 
-I am a Digital Humanities scholar and District Leader at Dedalus S.p.A., working at the intersection of **textual scholarship, digital philology, and large-scale ICT service governance**.  
+I am a Digital Humanities scholar and District Leader at Dedalus S.p.A., working at the intersection of **textual scholarship, digital philology, and large-scale ICT service governance**.
 
 My academic background (PhD, University of Palermo) and professional responsibilities in healthcare ICT converge in a research practice that integrates **critical editing, TEI/XML modeling, genetic criticism, and AI-assisted philological methods**.
 
-My scholarly interests include **authorial revision and genetic processes**, **intertextuality modeling**, **TEI-based ecosystems for scholarly communication**, **spatial humanities**, and **machine-assisted textual analysis** for historical corpora.
+---
+
+## 🔍 Highlights
+
+- 🏛️ **Digital Humanities scholar & ICT Leader** working at the intersection of textual scholarship, TEI-based philology, and large-scale service governance.  
+- 🔬 **Research interests**: authorial revision, genetic criticism, intertextuality modeling, spatial humanities, and AI-assisted methods for philological analysis.  
+- 📦 **GitHub projects** include TEI/XML corpora, DH datasets, experimental NLP notebooks, and pipelines for digital scholarly editing.  
+- 🤖 Exploring **LLM-driven workflows** for collation, markup suggestion, semantic clustering, and TEI-aware editorial support.  
+- 🌐 Building **TEI-centered ecosystems** for textual research, scholarly communication, and interoperable digital editions.
+
+---
 
 ## 🔬 Research Focus and DH Expertise
 
@@ -24,6 +34,8 @@ My scholarly interests include **authorial revision and genetic processes**, **i
 - **AI for Philology and DH**  
   LLM-assisted collation, markup suggestion engines, semantic clustering, knowledge graph construction for textual traditions, and pedagogical applications in DH teaching.
 
+---
+
 ## 🛠️ Technical Skills
 
 **Markup and DH Standards:** TEI/XML, XSLT, HTML, CSS  
@@ -32,7 +44,9 @@ My scholarly interests include **authorial revision and genetic processes**, **i
 **ICT Management:** SLA governance, risk assessment, process optimization, multi-team coordination in healthcare ICT  
 **Other Tools:** Linux environments, professional documentation design, video editing and DH visual communication
 
-## 🏢 Current Position  
+---
+
+## 🏢 Current Position
 
 ### **District Leader – Service Manager, Central–Southern Area**  
 **Dedalus S.p.A. (2025–present)**  
@@ -41,6 +55,8 @@ Responsible for the operational and strategic coordination of **85 service units
 - governance of regional healthcare ICT systems;  
 - service delivery and quality assurance frameworks;  
 - leadership in complex environments.  
+
+---
 
 ## 🎓 Academic Background
 
@@ -53,9 +69,13 @@ Responsible for the operational and strategic coordination of **85 service units
 - **MA in Modern Italian Literature (summa cum laude)**  
   University of Palermo (2013)
 
+---
+
 ## 👨‍🏫 Teaching and Academic Involvement
 
-Adjunct lecturer in Modern Italian Literature, Digital Philology and DH at University of Palermo and LUMSA (2013–2021) 
+Adjunct lecturer in Modern Italian Literature, Digital Philology and DH at University of Palermo and LUMSA (2013–2021)
+
+---
 
 ## 📚 Selected Publications
 
@@ -65,26 +85,35 @@ Adjunct lecturer in Modern Italian Literature, Digital Philology and DH at Unive
 ### **Peer-reviewed Articles** (Selected)
 - *Dai testi cartacei ai testi virtuali* — *Umanistica Digitale*, 2018  
 - *Molteplicità testuale e movimenti compositivi nel ms. di Populonia*, 2018  
-- *Analisi informatizzata di Storia di chi fugge e di chi resta*, 2019
+- *Analisi informatizzata di Storia di chi fugge e di chi resta*, 2019  
 - For the full list of publications, see my ORCID profile
 
+---
+
 ## 🎤 Conferences, Talks & Workshops (Selected)
+
 - AIUCD 2019 (Udine) — Digital scholarly editing and university pedagogy  
-- XXVIII International Congress of Romance Linguistics & Philology, Rome 2016   
+- XXVIII International Congress of Romance Linguistics & Philology, Rome 2016  
 - SIS, University of Oxford, 2015 — The “insane” manuscript of *I Viceré*  
-- Gozzano Conference — University of Philadelphia, 2015
+- Gozzano Conference — University of Philadelphia, 2015  
 - For the full list of conferences, see my ORCID profile
-  
+
+---
+
 ## 🧭 DH Project Leadership
+
 - Organizer — **Digital Humanities Winter School**, University of Palermo (2019)  
 - Organizer — **TEI P5 Workshop**, University of Palermo (2016)  
 - Scientific supervision for:  
-  - critical edition, genetic dossiers 
+  - critical edition  
+  - genetic dossiers  
   - TEI encoding projects and DH corpora   
+
+---
 
 ## 📫 Contact & Academic Profiles
 
 - **Email:** luciano.longo@dedalus.com  
 - **ORCID:** https://orcid.org/0009-0005-7557-7546  
 - **Zenodo:** https://zenodo.org/search?q=l-longo77  
-- **GitHub:** https://github.com/luciano-longo77  
+- **GitHub:** https://github.com/luciano-longo77
