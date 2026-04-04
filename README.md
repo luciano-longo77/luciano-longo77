@@ -1,10 +1,16 @@
 # 👋 Welcome, I am **Luciano Longo, PhD**
 ### Digital Humanities • Textual Scholarship • Scholarly Digital Editing • ICT Service & Project Management
 
+### [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--7557--7546-green?logo=orcid)](https://orcid.org/0009-0005-7557-7546)
+### ![GitHub Repo stars](https://img.shields.io/github/stars/luciano-longo77/castello-dell-anima-edizione?style=social)
+
 I am a Digital Humanities scholar and District Leader at Dedalus S.p.A., working at the intersection of **textual scholarship, digital philology, and large-scale ICT service governance**.
 
 My academic background (PhD, University of Palermo) and professional responsibilities in healthcare ICT converge in a research practice that integrates **critical editing, TEI/XML modeling, genetic criticism, and AI-assisted philological methods**.
 
+![TEI](https://img.shields.io/badge/TEI-P5-blue)
+![XSLT](https://img.shields.io/badge/XSLT-1.0-orange)
+![NLP](https://img.shields.io/badge/NLP-spaCy-green)
 ---
 
 ## 🔍 Highlights
@@ -34,6 +40,8 @@ My academic background (PhD, University of Palermo) and professional responsibil
 - **AI for Philology and DH**  
   LLM-assisted collation, markup suggestion engines, semantic clustering, knowledge graph construction for textual traditions, and pedagogical applications in DH teaching.
 
+![Digital Philology](https://img.shields.io/badge/Digital-Philology-red)
+![Genetic Criticism](https://img.shields.io/badge/Genetic-Criticism-purple)
 ---
 
 ## 🛠️ Technical Skills
@@ -44,6 +52,8 @@ My academic background (PhD, University of Palermo) and professional responsibil
 **ICT Management:** SLA governance, risk assessment, process optimization, multi-team coordination in healthcare ICT  
 **Other Tools:** Linux environments, professional documentation design, video editing and DH visual communication
 
+![Oxygen XML](https://img.shields.io/badge/Oxygen-XML%20Editor-blue)
+![Git](https://img.shields.io/badge/Git-versioning-lightgrey)
 ---
 
 ## 🏢 Current Position
