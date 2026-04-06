@@ -1,16 +1,22 @@
 # 👋 Welcome, I am **Luciano Longo, PhD**
 ### Digital Humanities • Textual Scholarship • Scholarly Digital Editing • ICT Service & Project Management
 
-### [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--7557--7546-green?logo=orcid)](https://orcid.org/0009-0005-7557-7546)
-### ![GitHub Repo stars](https://img.shields.io/github/stars/luciano-longo77/castello-dell-anima-edizione?style=social)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--7557--7546-green?logo=orcid)](https://orcid.org/0009-0005-7557-7546)
+![GitHub Followers](https://img.shields.io/github/followers/luciano-longo77?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/luciano-longo77/castello-dell-anima-edizione?style=social)
 
 I am a Digital Humanities scholar and District Leader at Dedalus S.p.A., working at the intersection of **textual scholarship, digital philology, and large-scale ICT service governance**.
 
 My academic background (PhD, University of Palermo) and professional responsibilities in healthcare ICT converge in a research practice that integrates **critical editing, TEI/XML modeling, genetic criticism, and AI-assisted philological methods**.
 
-![TEI](https://img.shields.io/badge/TEI-P5-blue)
-![XSLT](https://img.shields.io/badge/XSLT-1.0-orange)
+![Genetic Criticism](https://img.shields.io/badge/Genetic-Criticism-purple)
+![Digital Philology](https://img.shields.io/badge/Digital-Philology-red)
 ![NLP](https://img.shields.io/badge/NLP-spaCy-green)
+![Textual Scholarship](https://img.shields.io/badge/Textual-Scholarship-brown)
+![Digital Philology](https://img.shields.io/badge/Digital-Philology-red)
+![Authorial Variants](https://img.shields.io/badge/Authorial-Variants-blueviolet)
+![Revision Dynamics](https://img.shields.io/badge/Revision-Dynamics-darkgreen)
+
 ---
 
 ## 🔍 Highlights
@@ -20,6 +26,18 @@ My academic background (PhD, University of Palermo) and professional responsibil
 - 📦 **GitHub projects** include TEI/XML corpora, DH datasets, experimental NLP notebooks, and pipelines for digital scholarly editing.  
 - 🤖 Exploring **LLM-driven workflows** for collation, markup suggestion, semantic clustering, and TEI-aware editorial support.  
 - 🌐 Building **TEI-centered ecosystems** for textual research, scholarly communication, and interoperable digital editions.
+
+![TEI P5](https://img.shields.io/badge/TEI-P5-blue)
+![XSLT](https://img.shields.io/badge/XSLT-1.0-orange)
+![XML](https://img.shields.io/badge/XML-1.0-lightgrey)
+![NLP](https://img.shields.io/badge/NLP-spaCy-green)
+![AI for Philology](https://img.shields.io/badge/AI_for-Philology-blueviolet)
+![Intertextuality Modeling](https://img.shields.io/badge/Intertextuality-Modeling-brown)
+![Scholarly Digital Editing](https://img.shields.io/badge/Digital-Editing-brightgreen)
+![Descriptive Encoding](https://img.shields.io/badge/Descriptive-Encoding-lightgrey)
+![Interpretative Encoding](https://img.shields.io/badge/Interpretative-Encoding-orange)
+![Collation](https://img.shields.io/badge/Variant-Collation-yellowgreen)
+![Intertextual Annotation](https://img.shields.io/badge/Intertextual-Annotation-gold)
 
 ---
 
@@ -42,6 +60,18 @@ My academic background (PhD, University of Palermo) and professional responsibil
 
 ![Digital Philology](https://img.shields.io/badge/Digital-Philology-red)
 ![Genetic Criticism](https://img.shields.io/badge/Genetic-Criticism-purple)
+![AI for Philology](https://img.shields.io/badge/AI_for-Philology-blueviolet)
+![Textual Scholarship](https://img.shields.io/badge/Textual-Scholarship-brown)
+![TEI P5](https://img.shields.io/badge/TEI-P5-blue)
+![Collation](https://img.shields.io/badge/Variant-Collation-yellowgreen)
+![Corpus Design](https://img.shields.io/badge/Corpus-Design-teal)
+![NLP for DH](https://img.shields.io/badge/NLP-for%20DH-green)]
+![Corpus Design](https://img.shields.io/badge/Corpus-Design-teal)
+![Humanities Data](https://img.shields.io/badge/Humanities-Data-darkcyan)
+![Domain-specific Lexica](https://img.shields.io/badge/Domain_Lexica-rosybrown)
+![Literary Cartography](https://img.shields.io/badge/Literary-Cartography-forestgreen)
+![Geocritical Analysis](https://img.shields.io/badge/Geocritical-Analysis-seagreen)
+
 ---
 
 ## 🛠️ Technical Skills
@@ -53,7 +83,13 @@ My academic background (PhD, University of Palermo) and professional responsibil
 **Other Tools:** Linux environments, professional documentation design, video editing and DH visual communication
 
 ![Oxygen XML](https://img.shields.io/badge/Oxygen-XML%20Editor-blue)
-![Git](https://img.shields.io/badge/Git-versioning-lightgrey)
+![Git](https://img.shields.io/badge/Git-versioning-lightgrey?logo=git)
+![AI for Philology](https://img.shields.io/badge/AI_for-Philology-blueviolet)
+![LLM-assisted Collation](https://img.shields.io/badge/LLM_Collation-indigo)
+![Markup Suggestion](https://img.shields.io/badge/Markup-Suggestion-purple)
+![Semantic Clustering](https://img.shields.io/badge/Semantic-Clustering-steelblue)
+![Knowledge Graphs](https://img.shields.io/badge/Textual-Knowledge_Graphs-darkslateblue)
+
 ---
 
 ## 🏢 Current Position
@@ -65,6 +101,16 @@ Responsible for the operational and strategic coordination of **85 service units
 - governance of regional healthcare ICT systems;  
 - service delivery and quality assurance frameworks;  
 - leadership in complex environments.  
+
+![ICT Service Management](https://img.shields.io/badge/ICT-Service%20Management-blue)
+![Healthcare ICT Governance](https://img.shields.io/badge/Healthcare-ICT%20Governance-darkgreen)
+![SLA Governance](https://img.shields.io/badge/SLA-Governance-orange)
+![Quality Assurance](https://img.shields.io/badge/Quality-Assurance-red)
+![Risk Management](https://img.shields.io/badge/Risk-Management-brown)
+![Service Delivery Leader](https://img.shields.io/badge/Service-Delivery%20Leader-royalblue)
+![Operations Coordination](https://img.shields.io/badge/Operations-Coordination-steelblue)
+![Team Leadership](https://img.shields.io/badge/Team-Leadership-purple)
+![Regional ICT Systems](https://img.shields.io/badge/Regional-ICT%20Systems-darkcyan)
 
 ---
 
@@ -98,6 +144,12 @@ Adjunct lecturer in Modern Italian Literature, Digital Philology and DH at Unive
 - *Analisi informatizzata di Storia di chi fugge e di chi resta*, 2019  
 - For the full list of publications, see my ORCID profile
 
+![Early Modern](https://img.shields.io/badge/Early_Modern-Literature-brown)
+![Bertolucci](https://img.shields.io/badge/DH-Bertolucci-lightblue)
+![Vittorini](https://img.shields.io/badge/DH-Vittorini-blue)
+![De Roberto](https://img.shields.io/badge/DH-De_Roberto-darkblue)
+
+
 ---
 
 ## 🎤 Conferences, Talks & Workshops (Selected)
@@ -120,10 +172,15 @@ Adjunct lecturer in Modern Italian Literature, Digital Philology and DH at Unive
   - TEI encoding projects and DH corpora   
 
 ---
-
 ## 📫 Contact & Academic Profiles
 
 - **Email:** luciano.longo@dedalus.com  
 - **ORCID:** https://orcid.org/0009-0005-7557-7546  
 - **Zenodo:** https://zenodo.org/search?q=l-longo77  
 - **GitHub:** https://github.com/luciano-longo77
+  
+[![Zenodo](https://img.shields.io/badge/Zenodo-Datasets-blue?logo=zenodo)](https://zenodo.org/search?q=l-longo77)
+![DOI](https://img.shields.io/badge/DOI-Citable-orange)
+
+---
+![Visitors](https://komarev.com/ghpvc/?username=luciano-longo77&color=blue)
