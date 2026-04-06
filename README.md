@@ -5,9 +5,9 @@
 ![GitHub Followers](https://img.shields.io/github/followers/luciano-longo77?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/luciano-longo77/castello-dell-anima-edizione?style=social)
 
-I am a Digital Humanities scholar and District Leader at Dedalus S.p.A., working at the intersection of **textual scholarship, digital philology, and large-scale ICT service governance**.
+I am a Digital Humanities scholar and ICT District Leader at Dedalus S.p.A., working at the intersection of **textual scholarship, digital philology, and large-scale healthcare ICT governance**.
 
-My academic background (PhD, University of Palermo) and professional responsibilities in healthcare ICT converge in a research practice that integrates **critical editing, TEI/XML modeling, genetic criticism, and AI-assisted philological methods**.
+My background (PhD, University of Palermo) and my professional responsibilities converge in a research practice that integrates **critical editing, TEI/XML modeling, genetic criticism, and AI-assisted philological workflows**.
 
 ![Genetic Criticism](https://img.shields.io/badge/Genetic-Criticism-purple)
 ![Digital Philology](https://img.shields.io/badge/Digital-Philology-red)
@@ -42,21 +42,30 @@ My academic background (PhD, University of Palermo) and professional responsibil
 ---
 
 ## 🔬 Research Focus and DH Expertise
+My work centers on the intersection between **textual scholarship**, **digital philology**, and **computational humanities**, with a focus on:
 
-- **Textual Scholarship & Digital Philology**  
-  Authorial variants, revision dynamics, genetic criticism, descriptive and interpretative encoding, philological modeling.
+### **Textual Scholarship & Digital Philology**
+- Authorial variants and revision processes  
+- Genetic criticism  
+- Descriptive & interpretative encoding  
+- Philological modeling
 
-- **Scholarly Digital Editions**  
-  TEI/XML modeling; XSLT-based transformation pipelines; collation and variant management; dynamic editions; intertextual annotation.
+### **Scholarly Digital Editions**
+- TEI/XML modeling  
+- XSLT transformation pipelines  
+- Collation & variant management  
+- Dynamic editions and intertextual annotation
 
-- **Data-informed Humanities & Corpus Design**  
-  NLP workflows for early modern and contemporary corpora; domain-specific lexica; geocritical analysis and literary cartography.
+### **Data-informed Humanities & Corpus Design**
+- NLP workflows for early modern and contemporary texts  
+- Domain-specific lexica  
+- Geocritical analysis & literary cartography
 
-- **TEI-driven DH Projects**  
-  Critical editions and textual corpora (Bertolucci, Vittorini, De Roberto, early modern religious literature); genetic dossiers; manuscript description; structural metadata.
-
-- **AI for Philology and DH**  
-  LLM-assisted collation, markup suggestion engines, semantic clustering, knowledge graph construction for textual traditions, and pedagogical applications in DH teaching.
+### **AI for Philology & DH**
+- LLM-assisted collation  
+- Markup suggestion engines  
+- Semantic clustering  
+- Knowledge-graph construction for textual traditions
 
 ![Digital Philology](https://img.shields.io/badge/Digital-Philology-red)
 ![Genetic Criticism](https://img.shields.io/badge/Genetic-Criticism-purple)
@@ -76,11 +85,20 @@ My academic background (PhD, University of Palermo) and professional responsibil
 
 ## 🛠️ Technical Skills
 
-**Markup and DH Standards:** TEI/XML, XSLT, HTML, CSS  
-**Analytical and Programming Tools:** AntConc, Voyant Tools, token-based analytical workflows  
-**Data & Editing Ecosystems:** Oxygen XML Editor, Git/GitHub, structured documentation workflows  
-**ICT Management:** SLA governance, risk assessment, process optimization, multi-team coordination in healthcare ICT  
-**Other Tools:** Linux environments, professional documentation design, video editing and DH visual communication
+**Markup & DH Standards:**  
+TEI/XML, XSLT, HTML, CSS
+
+**Analytical Tools:**  
+AntConc, Voyant Tools, token-based analytical workflows
+
+**Data & Editing Ecosystems:**  
+Oxygen XML Editor, Git/GitHub, structured documentation workflows
+
+**ICT Management:**  
+SLA governance, risk assessment, process optimization, multi-team coordination in healthcare ICT
+
+**Other Tools:**  
+Linux environments, professional documentation design, video editing, DH visual communication
 
 ![Oxygen XML](https://img.shields.io/badge/Oxygen-XML%20Editor-blue)
 ![Git](https://img.shields.io/badge/Git-versioning-lightgrey?logo=git)
@@ -93,14 +111,13 @@ My academic background (PhD, University of Palermo) and professional responsibil
 ---
 
 ## 🏢 Current Position
-
 ### **District Leader – Service Manager, Central–Southern Area**  
 **Dedalus S.p.A. (2025–present)**  
 
-Responsible for the operational and strategic coordination of **85 service units**, overseeing  
-- governance of regional healthcare ICT systems;  
-- service delivery and quality assurance frameworks;  
-- leadership in complex environments.  
+Responsible for the operational and strategic coordination of **85 service units**, overseeing:  
+- governance of regional healthcare ICT systems  
+- service delivery and quality assurance frameworks  
+- leadership in complex, multi-stakeholder environments
 
 ![ICT Service Management](https://img.shields.io/badge/ICT-Service%20Management-blue)
 ![Healthcare ICT Governance](https://img.shields.io/badge/Healthcare-ICT%20Governance-darkgreen)
@@ -117,7 +134,7 @@ Responsible for the operational and strategic coordination of **85 service units
 ## 🎓 Academic Background
 
 - **PhD in Literary, Philological and Linguistic Studies**  
-  *Textual Scholarship & Digital Philology* — University of Palermo (2017)
+  Textual Scholarship & Digital Philology — University of Palermo (2017)
 
 - **Executive Master in Healthcare and Social-care Management**  
   SDA Bocconi School of Management (2014)
@@ -128,8 +145,8 @@ Responsible for the operational and strategic coordination of **85 service units
 ---
 
 ## 👨‍🏫 Teaching and Academic Involvement
-
-Adjunct lecturer in Modern Italian Literature, Digital Philology and DH at University of Palermo and LUMSA (2013–2021)
+Adjunct lecturer in Modern Italian Literature, Digital Philology and DH  
+University of Palermo & LUMSA (2013–2021)
 
 ---
 
