@@ -148,7 +148,7 @@ University of Palermo & LUMSA (2013–2021)
 - *Dai testi cartacei ai testi virtuali*, *Umanistica Digitale*  
   [[Full text](https://umanisticadigitale.unibo.it/article/view/8146)]
 - *Molteplicità testuale e movimenti compositivi nel ms. di Populonia*  
-  [[Full text](https://www.edizioniets.com/priv_file_libro/3501.pdf)]
+  [[Full text](https://iris.unipa.it/retrieve/e3ad8925-af34-da0e-e053-3705fe0a2b96/CASTAGNA%20.%20L%27amica%20geniale%20in%20Inghilterra.pdf)]
   
 ---
 
