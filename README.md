@@ -27,11 +27,21 @@ My background (PhD, University of Palermo) and my professional responsibilities 
 - 🧠 Exploring **LLM-driven workflows** for collation, markup suggestion, semantic clustering, and TEI-aware editorial support.  
 - 🧵 Building **TEI-centered ecosystems** for textual research, scholarly communication, and interoperable digital editions.
 
-
 ![TEI P5](https://img.shields.io/badge/TEI-P5-0A4B78)
 ![XSLT](https://img.shields.io/badge/XSLT-1.0-0A4B78)
 ![AI for Philology](https://img.shields.io/badge/AI_for-Philology-6A3EC1)
 
+---
+## 🚧 Projects in Development
+
+I'm currently preparing the following repositories for publication:
+
+📚 **Il Castello dell'Anima - Digital Edition** — TEI/XML critical edition with genetic apparatus  (https://github.com/luciano-longo77/castello-anima-TEI-IA)
+📿 **Corpus of Early Modern Italian Religious Women's Writing** — Annotated texts for computational philology (1600-1750)
+🤖 **Il Castello Digitale** — AI-assisted philological workflows for Suor Teresa di San Geronimo's mystical treatise
+📝 **Genetic Edition Toolkit: Bertolucci's Unpublished Poems** — Reengineering workflows for authorial variants
+
+*⭐ Star this profile to get notified when new projects go live*
 
 ---
 
@@ -106,8 +116,6 @@ Responsible for the operational and strategic coordination of **85 service units
 
 ## 🎓 Academic Background
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--7557--7546-3B7DD8?logo=orcid)](https://orcid.org/0009-0005-7557-7546)
-
 - **PhD in Literary, Philological and Linguistic Studies**  
   Textual Scholarship & Digital Philology — University of Palermo (2017)
 
@@ -123,29 +131,18 @@ Responsible for the operational and strategic coordination of **85 service units
 Adjunct lecturer in Modern Italian Literature, Digital Philology and DH  
 University of Palermo & LUMSA (2013–2021)
 
-![University Teaching](https://img.shields.io/badge/University-Teaching-3B7DD8)
-![Digital Humanities Education](https://img.shields.io/badge/Digital_Humanities-Education-6A3EC1)
-
 ---
 
 ## 📝 Selected Publications
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--7557--7546-3B7DD8?logo=orcid)](https://orcid.org/0009-0005-7557-7546)
-
 ### **Monographs / Critical Editions**
 - *Il Castello dell’anima* (critical edition), Edizioni dell’Orso, 2015
 
-![Early Modern](https://img.shields.io/badge/Early_Modern-Literature-3B7DD8)
-
 ### **Peer-reviewed Articles** (Selected)
-- *Dai testi cartacei ai testi virtuali* — *Umanistica Digitale*, 2018 (https://umanisticadigitale.unibo.it/article/view/8146)
+- *Dai testi cartacei ai testi virtuali* — *Umanistica Digitale*, 2018 [Full text](https://umanisticadigitale.unibo.it/article/view/8146)
 - *Molteplicità testuale e movimenti compositivi nel ms. di Populonia*, 2018 (https://www.edizioniets.com/priv_file_libro/3501.pdf) 
 - *Analisi informatizzata di Storia di chi fugge e di chi resta*, 2019
   (https://www.progettoblio.com/wp-content/uploads/2021/06/AA.VV_.-Incontro-con-Elena-Ferrante-a-cura-di-La-Monaca-Perrone-Palermo-University-Press-2019-Mele.pdf)
-
-![Bertolucci](https://img.shields.io/badge/DH-Bertolucci-3B7DD8)
-![Vittorini](https://img.shields.io/badge/DH-Vittorini-3B7DD8)
-![De Roberto](https://img.shields.io/badge/DH-De_Roberto-3B7DD8)
 
 ---
 
@@ -168,20 +165,17 @@ University of Palermo & LUMSA (2013–2021)
   - genetic dossiers  
   - TEI encoding projects and DH corpora  
 
-![Digital Editing](https://img.shields.io/badge/Digital%20Editing-3B7DD8)
-![Critical Edition](https://img.shields.io/badge/Critical%20Edition-6A3EC1)
-
 ---
 
 ## 📫 Contact & Academic Profiles
 
-- **Email:** luciano.longo@dedalus.com  
-- **ORCID:** https://orcid.org/0009-0005-7557-7546  
-- **GitHub:** https://github.com/luciano-longo77
+💼 **Professional:** luciano.longo@dedalus.com  
+🎓 **Academic Profile:** [ORCID 0009-0005-7557-7546](https://orcid.org/0009-0005-7557-7546)  
+📦 **Research Data:** [Zenodo Collection](https://zenodo.org/search?q=l-longo77)  
+💻 **Code & Projects:** You're here!
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--7557--7546-3B7DD8?logo=orcid)](https://orcid.org/0009-0005-7557-7546)
-[![Zenodo](https://img.shields.io/badge/Zenodo-Datasets-3B7DD8?logo=zenodo)](https://zenodo.org/search?q=l-longo77)
-![DOI](https://img.shields.io/badge/DOI-Citable-6E7B8B)
+**Interested in collaborating on Digital Humanities projects?**  
+Feel free to reach out or open an issue in any repository.
 
 ---
 ![Visitors](https://komarev.com/ghpvc/?username=luciano-longo77&color=3B7DD8)
