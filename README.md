@@ -139,6 +139,7 @@ University of Palermo & LUMSA (2013–2021)
 ### **Monographs / Critical Editions**
 - *Il Castello dell’anima* (critical edition), Edizioni dell’Orso, 2015
 
+### **Peer-reviewed Articles** (Selected)
 **2019**
 - *Analisi informatizzata di Storia di chi fugge e di chi resta*, in *Incontro con Elena Ferrante*  
   [[Full text](https://www.progettoblio.com/...)]
