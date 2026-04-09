@@ -2,7 +2,6 @@
 ### Digital Humanities • Textual Scholarship • Scholarly Digital Editing • ICT Service & Project Management
 
 ![ORCID](https://img.shields.io/badge/ORCID-0009--0005--7557--7546-3B7DD8?logo=orcid)
-![GitHub Followers](https://img.shields.io/github/followers/luciano-longo77?color=3B7DD8&style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/luciano-longo77/castello-dell-anima-edizione?style=social)
 
 I am a Digital Humanities scholar and ICT District Leader at Dedalus S.p.A., working at the intersection of **textual scholarship, digital philology, and large-scale healthcare ICT governance**.
