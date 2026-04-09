@@ -36,7 +36,7 @@ My background (PhD, University of Palermo) and my professional responsibilities 
 
 I'm currently preparing the following repositories for publication:
 
-- 📚 **Il Castello dell'Anima - Digital Edition** — TEI/XML critical edition with genetic apparatus  (https://github.com/luciano-longo77/castello-anima-TEI-IA)
+- 📚 **Il Castello dell'Anima - Digital Edition** — TEI/XML critical edition with genetic apparatus [Repo] (https://github.com/luciano-longo77/castello-anima-TEI-IA)
 - 📿 **Corpus of Early Modern Italian Religious Women's Writing** — Annotated texts for computational philology (1600-1750)
 - 🤖 **Il Castello Digitale** — AI-assisted philological workflows for Suor Teresa di San Geronimo's mystical treatise
 - 📝 **Genetic Edition Toolkit: Bertolucci's Unpublished Poems** — Reengineering workflows for authorial variants
@@ -138,8 +138,8 @@ University of Palermo & LUMSA (2013–2021)
 
 ### **Peer-reviewed Articles** (Selected)
 - *Dai testi cartacei ai testi virtuali* — *Umanistica Digitale*, 2018 [Full text](https://umanisticadigitale.unibo.it/article/view/8146)
-- *Molteplicità testuale e movimenti compositivi nel ms. di Populonia*, 2018 (https://www.edizioniets.com/priv_file_libro/3501.pdf) 
-- *Analisi informatizzata di Storia di chi fugge e di chi resta*, 2019
+- *Molteplicità testuale e movimenti compositivi nel ms. di Populonia*, 2018 [text](https://www.edizioniets.com/priv_file_libro/3501.pdf) 
+- *Analisi informatizzata di Storia di chi fugge e di chi resta*, 2019 [text]
   (https://www.progettoblio.com/wp-content/uploads/2021/06/AA.VV_.-Incontro-con-Elena-Ferrante-a-cura-di-La-Monaca-Perrone-Palermo-University-Press-2019-Mele.pdf)
 
 ---
