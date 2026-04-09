@@ -181,12 +181,11 @@ University of Palermo & LUMSA (2013–2021)
 
 ## 🎤 Conferences, Talks & Workshops (Selected)
 
-![AIUCD](https://img.shields.io/badge/AIUCD_Conference-3B7DD8)
-
-- AIUCD 2019 (Udine) — Digital scholarly editing and university pedagogy  
-- XXVIII International Congress of Romance Linguistics & Philology, Rome 2016  
-- SIS, University of Oxford, 2015 — The “insane” manuscript of *I Viceré*  
-- Gozzano Conference — University of Philadelphia, 2015  
+- 2026, CATS (Roma) - *Cara amica ti scrivo*. Racconti di amicizia e reti relazionali fra donne tra letteratura, cinema e media italiani
+- 2019, AIUCD (Udine) — Digital scholarly editing and university pedagogy  
+- 2016, XXVIII International Congress of Romance Linguistics & Philology, Rome  
+- 2015, SIS, University of Oxford, 2015 — The “insane” manuscript of *I Viceré*  
+- 2015, Gozzano Conference — University of Philadelphia 
 
 ---
 
