@@ -14,6 +14,9 @@ My background (PhD, University of Palermo) and my professional responsibilities 
 ![NLP](https://img.shields.io/badge/NLP-spaCy-3B7DD8)
 ![Healthcare ICT Governance](https://img.shields.io/badge/Healthcare-ICT%20Governance-2E8B57)
 
+## 📑 Quick Navigation
+[Highlights](#-highlights) • [Research Focus](#-research-focus-and-dh-expertise) • [Current Position](#-current-position) • [Publications](#-selected-publications) • [Contact](#-contact--academic-profiles)
+
 ---
 
 ## 🔎 Highlights
@@ -24,17 +27,11 @@ My background (PhD, University of Palermo) and my professional responsibilities 
 - 🧠 Exploring **LLM-driven workflows** for collation, markup suggestion, semantic clustering, and TEI-aware editorial support.  
 - 🧵 Building **TEI-centered ecosystems** for textual research, scholarly communication, and interoperable digital editions.
 
-![XML](https://img.shields.io/badge/XML-1.0-0A4B78)
+
 ![TEI P5](https://img.shields.io/badge/TEI-P5-0A4B78)
 ![XSLT](https://img.shields.io/badge/XSLT-1.0-0A4B78)
-![NLP](https://img.shields.io/badge/NLP-spaCy-3B7DD8)
-
 ![AI for Philology](https://img.shields.io/badge/AI_for-Philology-6A3EC1)
-![Intertextuality Modeling](https://img.shields.io/badge/Intertextuality-Modeling-3B7DD8)
 
-![Scholarly Digital Editing](https://img.shields.io/badge/Digital-Editing-3B7DD8)
-![Descriptive Encoding](https://img.shields.io/badge/Descriptive-Encoding-0A4B78)
-![Interpretative Encoding](https://img.shields.io/badge/Interpretative-Encoding-6A3EC1)
 
 ---
 
@@ -46,30 +43,22 @@ My background (PhD, University of Palermo) and my professional responsibilities 
 - Descriptive & interpretative encoding  
 - Philological modeling
 
-![Digital Philology](https://img.shields.io/badge/Digital-Philology-3B7DD8)
-
 ### **Scholarly Digital Editions**
 - TEI/XML modeling  
 - XSLT transformation pipelines  
 - Collation & variant management  
 - Dynamic editions and intertextual annotation
 
-![TEI P5](https://img.shields.io/badge/TEI-P5-0A4B78)
-
 ### **Data-informed Humanities & Corpus Design**
 - NLP workflows for early modern and contemporary texts  
 - Domain-specific lexica  
 - Geocritical analysis & literary cartography
-
-![NLP](https://img.shields.io/badge/NLP-spaCy-3B7DD8)
 
 ### **AI for Philology & DH**
 - LLM-assisted collation  
 - Markup suggestion engines  
 - Semantic clustering  
 - Knowledge-graph construction for textual traditions
-
-![AI for Philology](https://img.shields.io/badge/AI_for-Philology-6A3EC1)
 
 ---
 
@@ -89,25 +78,6 @@ SLA governance, risk assessment, process optimization, multi-team coordination i
 
 **Other Tools:**  
 Linux environments, professional documentation design, video editing, DH visual communication
-
-![Oxygen XML](https://img.shields.io/badge/Oxygen-XML%20Editor-6E7B8B)
-![TEI P5](https://img.shields.io/badge/TEI-P5-0A4B78)
-![Git](https://img.shields.io/badge/Git-versioning-6E7B8B?logo=git)
-![AI for Philology](https://img.shields.io/badge/AI_for-Philology-6A3EC1)
-![LLM-assisted Collation](https://img.shields.io/badge/LLM_Collation-3B7DD8)
-![NLP for DH](https://img.shields.io/badge/NLP-for%20DH-3B7DD8)
-![Markup Suggestion](https://img.shields.io/badge/Markup-Suggestion-6A3EC1)
-![Humanities Data](https://img.shields.io/badge/Humanities-Data-6E7B8B)
-![Semantic Clustering](https://img.shields.io/badge/Semantic-Clustering-3B7DD8)
-![Knowledge Graphs](https://img.shields.io/badge/Textual-Knowledge_Graphs-6A3EC1)
-![Corpus Design](https://img.shields.io/badge/Corpus-Design-3B7DD8)
-![Domain_specific Lexica](https://img.shields.io/badge/Domain_Lexica-6E7B8B)
-![Digital Philology](https://img.shields.io/badge/Digital-Philology-3B7DD8)
-![Genetic Criticism](https://img.shields.io/badge/Genetic-Criticism-6A3EC1)
-![Textual Scholarship](https://img.shields.io/badge/Textual-Scholarship-6A3EC1)
-![Variant_Collation](https://img.shields.io/badge/Variant-Collation-0A4B78)
-![Literary Cartography](https://img.shields.io/badge/Literary-Cartography-3B7DD8)
-![Geocritical Analysis](https://img.shields.io/badge/Geocritical-Analysis-3B7DD8)
 
 ---
 
