@@ -168,9 +168,10 @@ University of Palermo & LUMSA (2013–2021)
 ![Early Modern](https://img.shields.io/badge/Early_Modern-Literature-3B7DD8)
 
 ### **Peer-reviewed Articles** (Selected)
-- *Dai testi cartacei ai testi virtuali* — *Umanistica Digitale*, 2018  
-- *Molteplicità testuale e movimenti compositivi nel ms. di Populonia*, 2018  
-- *Analisi informatizzata di Storia di chi fugge e di chi resta*, 2019  
+- *Dai testi cartacei ai testi virtuali* — *Umanistica Digitale*, 2018 (https://umanisticadigitale.unibo.it/article/view/8146)
+- *Molteplicità testuale e movimenti compositivi nel ms. di Populonia*, 2018 (https://www.edizioniets.com/priv_file_libro/3501.pdf) 
+- *Analisi informatizzata di Storia di chi fugge e di chi resta*, 2019
+  (https://www.progettoblio.com/wp-content/uploads/2021/06/AA.VV_.-Incontro-con-Elena-Ferrante-a-cura-di-La-Monaca-Perrone-Palermo-University-Press-2019-Mele.pdf)
 
 ![Bertolucci](https://img.shields.io/badge/DH-Bertolucci-3B7DD8)
 ![Vittorini](https://img.shields.io/badge/DH-Vittorini-3B7DD8)
