@@ -34,11 +34,13 @@ My background (PhD, University of Palermo) and my professional responsibilities 
 ---
 ## 🚧 Projects in Development
 
-I'm currently preparing the following repositories for publication:
-
 - 📚 **Il Castello dell'Anima - Digital Edition** — TEI/XML critical edition with genetic apparatus  
   → [Repository](https://github.com/luciano-longo77/castello-anima-TEI-IA) | Status: 🚧 Active development
-- 📿 **Corpus of Early Modern Italian Religious Women's Writing** — Annotated texts for computational philology (1600-1750) ![Status](https://img.shields.io/badge/Status-Planning-yellow)
+
+---
+
+## 🗂️ Featured Projects 
+- 📿 **Corpus of Early Modern Italian Religious Women's Writing** — Annotated texts for computational philology ![Status](https://img.shields.io/badge/Status-Experimental-yellow)
 - 🤖 **Il Castello Digitale** — AI-assisted philological workflows for Suor Teresa di San Geronimo's mystical treatise ![Status](https://img.shields.io/badge/Status-Experimental-orange)
 - 📝 **Genetic Edition Toolkit: Bertolucci's Unpublished Poems** — Reengineering workflows for authorial variants ![Status](https://img.shields.io/badge/Status-Experimental-red)
 
@@ -137,11 +139,16 @@ University of Palermo & LUMSA (2013–2021)
 ### **Monographs / Critical Editions**
 - *Il Castello dell’anima* (critical edition), Edizioni dell’Orso, 2015
 
-### **Peer-reviewed Articles** (Selected)
-- *Dai testi cartacei ai testi virtuali* — *Umanistica Digitale*, 2018 [Full text](https://umanisticadigitale.unibo.it/article/view/8146)
-- *Molteplicità testuale e movimenti compositivi nel ms. di Populonia*, 2018 [text](https://www.edizioniets.com/priv_file_libro/3501.pdf) 
-- *Analisi informatizzata di Storia di chi fugge e di chi resta*, 2019 [text](https://www.progettoblio.com/wp-content/uploads/2021/06/AA.VV_.-Incontro-con-Elena-Ferrante-a-cura-di-La-Monaca-Perrone-Palermo-University-Press-2019-Mele.pdf)
+**2019**
+- *Analisi informatizzata di Storia di chi fugge e di chi resta*, in *Incontro con Elena Ferrante*  
+  [[Full text](https://www.progettoblio.com/...)]
 
+**2018**
+- *Dai testi cartacei ai testi virtuali*, *Umanistica Digitale*  
+  [[Full text](https://umanisticadigitale.unibo.it/article/view/8146)]
+- *Molteplicità testuale e movimenti compositivi nel ms. di Populonia*  
+  [[Full text](https://www.edizioniets.com/...)]
+  
 ---
 
 ## 🎤 Conferences, Talks & Workshops (Selected)
