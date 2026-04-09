@@ -41,8 +41,6 @@ I'm currently preparing the following repositories for publication:
 - 🤖 **Il Castello Digitale** — AI-assisted philological workflows for Suor Teresa di San Geronimo's mystical treatise
 - 📝 **Genetic Edition Toolkit: Bertolucci's Unpublished Poems** — Reengineering workflows for authorial variants
 
-*⭐ Star this profile to get notified when new projects go live*
-
 ---
 
 ## 🔬 Research Focus and DH Expertise
