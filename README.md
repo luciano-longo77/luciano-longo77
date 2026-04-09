@@ -169,7 +169,6 @@ University of Palermo & LUMSA (2013–2021)
 💼 **Professional:** luciano.longo@dedalus.com  
 🎓 **Academic Profile:** [ORCID 0009-0005-7557-7546](https://orcid.org/0009-0005-7557-7546)  
 📦 **Research Data:** [Zenodo Collection](https://zenodo.org/search?q=l-longo77)  
-💻 **Code & Projects:** You're here!
 
 **Interested in collaborating on Digital Humanities projects?**  
 Feel free to reach out or open an issue in any repository.
