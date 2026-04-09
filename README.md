@@ -36,7 +36,8 @@ My background (PhD, University of Palermo) and my professional responsibilities 
 
 I'm currently preparing the following repositories for publication:
 
-- 📚 **Il Castello dell'Anima - Digital Edition** — TEI/XML critical edition with genetic apparatus [Repo](https://github.com/luciano-longo77/castello-anima-TEI-IA)
+- 📚 **Il Castello dell'Anima - Digital Edition** — TEI/XML critical edition with genetic apparatus  
+  → [Repository](https://github.com/luciano-longo77/castello-anima-TEI-IA) | Status: 🚧 Active development
 - 📿 **Corpus of Early Modern Italian Religious Women's Writing** — Annotated texts for computational philology (1600-1750)
 - 🤖 **Il Castello Digitale** — AI-assisted philological workflows for Suor Teresa di San Geronimo's mystical treatise
 - 📝 **Genetic Edition Toolkit: Bertolucci's Unpublished Poems** — Reengineering workflows for authorial variants
