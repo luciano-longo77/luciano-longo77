@@ -38,9 +38,9 @@ I'm currently preparing the following repositories for publication:
 
 - 📚 **Il Castello dell'Anima - Digital Edition** — TEI/XML critical edition with genetic apparatus  
   → [Repository](https://github.com/luciano-longo77/castello-anima-TEI-IA) | Status: 🚧 Active development
-- 📿 **Corpus of Early Modern Italian Religious Women's Writing** — Annotated texts for computational philology (1600-1750)
-- 🤖 **Il Castello Digitale** — AI-assisted philological workflows for Suor Teresa di San Geronimo's mystical treatise
-- 📝 **Genetic Edition Toolkit: Bertolucci's Unpublished Poems** — Reengineering workflows for authorial variants
+- 📿 **Corpus of Early Modern Italian Religious Women's Writing** — Annotated texts for computational philology (1600-1750) ![Status](https://img.shields.io/badge/Status-Planning-yellow)
+- 🤖 **Il Castello Digitale** — AI-assisted philological workflows for Suor Teresa di San Geronimo's mystical treatise ![Status](https://img.shields.io/badge/Status-Experimental-orange)
+- 📝 **Genetic Edition Toolkit: Bertolucci's Unpublished Poems** — Reengineering workflows for authorial variants ![Status](https://img.shields.io/badge/Status-Experimental-red)
 
 ---
 
