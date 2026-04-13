@@ -31,6 +31,16 @@ My background (PhD, University of Palermo) and my professional responsibilities 
 ![AI for Philology](https://img.shields.io/badge/AI_for-Philology-6A3EC1)
 
 ---
+
+### 🔧 What I’m working on
+
+- Refining TEI/XML encoding and genetic apparatus for *Il Castello dell’anima*, Book III.  
+- Designing AI-assisted workflows for collation, semantic clustering, and markup suggestion.  
+- Building a micro‑pipeline for Early Modern women’s writing (NER + taxonomies).  
+- Preparing interoperable datasets for future DH corpora (TEI → workflows).  
+- Modeling authorial variants using a lightweight genetic toolkit (Bertolucci project).
+---
+
 ## 🚧 Projects in Development
 
 - 📚 **Il Castello dell'Anima - Digital Edition** — TEI/XML critical edition with genetic apparatus  
